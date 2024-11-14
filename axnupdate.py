@@ -53,7 +53,7 @@ def ____banner____():
 88  88     88    88 88  Y8     88  V/1.1
 \n---------------------------------
 [✪] OWNER      : MRSH4MUL
-[✪] DEVELOPER  : ASIF 
+[✪] DEVELOPER  : MRSH4MUL 
 [✪] STATUS     : FREE [+] V/1.1
 [✪] TOOLS      : OLD & RANDOM & FILE
 ---------------------------------""")
